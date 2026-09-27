@@ -313,7 +313,7 @@ blockquote,
 .mini-chart {
     height: 200px;
     display: flex;
-    align-items: right;
+    align-items: end;
     gap: 10px;
     padding-top: 16px;
 }
